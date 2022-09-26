@@ -1,0 +1,28 @@
+.navbar-header a.navbar-brand{
+    font-size: 200%;
+    color: black;
+    font-style: italic;
+    margin: auto;
+}
+
+.navbar{
+    background-color: gray;
+    height: 60px;
+}
+
+.container{
+    margin: 0;
+}
+
+#navbar-collapse-1{
+    margin-top: 10px;
+}
+
+#nav-list li{
+    border: 2px solid black;
+}
+
+.text-row div{
+    margin-bottom:10px;
+    background-color: gray;
+}
